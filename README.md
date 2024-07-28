@@ -1,1 +1,1 @@
-# Sharanu-s-website
+## Personal project - Sharanu N Dibbadamani
